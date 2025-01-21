@@ -51,13 +51,13 @@ PORT=8080
 
 ```
 docs/
-  └── server.ts       # Project Arch
+  └── ...             # Project Arch
   └── ...
 src/
   └── server.ts       # Entry point for the application
   └── ...
 dist/
-  └── server.cjs     # Compiled output
+  └── server.cjs      # Compiled output
   └── ...
 ```
 
