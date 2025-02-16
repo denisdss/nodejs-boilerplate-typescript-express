@@ -69,10 +69,23 @@ dist/
 - **tsx**: A runtime for running TypeScript and JSX files directly.
 - **tsup**: A zero-config bundler for TypeScript, built on esbuild for blazing fast builds.
 
-## 📝 License
+## 🤝 Contributing
 
-This project is licensed under the [ISC License](LICENSE).
+Feel free to submit pull requests or open issues!
 
-## 👨‍💻 Author
+## 📜 License
 
-Created by [DenisDSS](https://github.com/DenisDSS).
+This project is licensed under the MIT License.
+
+## 📬 Contact
+
+Denis DSS - Software Engineer
+[[denisdss@outlook.com](mailto\:denisdss@outlook.com)]
+
+## ☕ Pay me a Coffee
+
+Ethereum Network: 0x0F8D4366ff23ee657B8aC5713C4E1591976C46c2
+
+PIX Brazilian Network: fc6efbb0-287c-498c-b4aa-e5c70578d6ab
+
+Buy me a coffee APP: http\://buymeacoffee.com/denisdss
